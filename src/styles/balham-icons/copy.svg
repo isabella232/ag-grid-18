@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>copy</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="copy" stroke="#000000">
-            <rect id="Rectangle-2" x="4.5" y="4.5" width="8" height="9" rx="2"></rect>
-            <path d="M11,2.5 L4.5,2.5 C3.3954305,2.5 2.5,3.3954305 2.5,4.5 L2.5,13" id="Path-11"></path>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><title>copy</title><desc>Created with Sketch.</desc><g id="Icons" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="copy" stroke="#000"><rect id="Rectangle-2" width="8" height="9" x="4.5" y="4.5" rx="2"/><path id="Path-11" d="M11,2.5 L4.5,2.5 C3.3954305,2.5 2.5,3.3954305 2.5,4.5 L2.5,13"/></g></g></svg>
