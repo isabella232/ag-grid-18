@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
-    <title>column</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Material-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="column" fill="#000000">
-            <rect id="Rectangle-10" x="2" y="2" width="4" height="2"></rect>
-            <rect id="Rectangle-10-Copy" x="2" y="6" width="4" height="10"></rect>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" version="1.1" viewBox="0 0 18 18"><title>column</title><desc>Created with Sketch.</desc><g id="Material-Icons" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="column" fill="#000"><rect id="Rectangle-10" width="4" height="2" x="2" y="2"/><rect id="Rectangle-10-Copy" width="4" height="10" x="2" y="6"/></g></g></svg>

@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>tree-indeterminate</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="tree-indeterminate" fill="#000000">
-            <rect id="Rectangle-4" x="2" y="5" width="8" height="2"></rect>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" version="1.1" viewBox="0 0 12 12"><title>tree-indeterminate</title><desc>Created with Sketch.</desc><g id="Icons" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="tree-indeterminate" fill="#000"><rect id="Rectangle-4" width="8" height="2" x="2" y="5"/></g></g></svg>
